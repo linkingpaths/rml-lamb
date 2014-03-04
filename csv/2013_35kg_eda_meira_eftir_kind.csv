@@ -1,81 +1,81 @@
-ID      Nafn                              ,     Bıli                ,     Póstnr ,   Fjöldi áa ,  Kjöt(kg)   , Kjötş. eftir á.m.l, Fædd lömb eftir hverja á
- 1      Skúli Andrésson                   ,    Framnesi             ,        720  ,        11   ,  54.6      ,  54.6       ,         2.73
- 2      Jóhann Tryggvason                 ,    Vöglum               ,        601  ,         4   ,  52.7      ,  52.7       ,         2.00
- 3      Henning Jóhannesson               ,    Ytri-Grenivík        ,        611  ,        30   ,  46.8      ,  46.8       ,         2.07
- 4      Sigurğur Einarsson                ,    Hellubæ              ,        320  ,        13   ,  45.6      ,  45.6       ,         2.33
- 5      Laufey og Şröstur                 ,    Stakkhamri           ,        311  ,        19   ,  43.8      ,  46.2       ,         2.37
- 6      Rannveig Vilhjálmsdóttir          ,    Eiğum                ,        611  ,        44   ,  42.8      ,  43.8       ,         2.12
- 7      Brynja Jóna Jónasdóttir           ,    Lyngholti            ,        851  ,         7   ,  42.2      ,  42.2       ,         2.14
- 8      Albert Guğmundsson                ,    Höfğastígur 12       ,        415  ,        13   ,  42.2      ,  42.2       ,         2.15
- 9      Egilsstağabúiğ ehf                ,    Egilsstağir          ,        701  ,        11   ,  42.2      ,  42.2       ,         1.82
-10      Jón Guğmundsson                   ,    Hofstağir            ,        340  ,        14   ,  42.0      ,  42.0       ,         2.00
-11      Andrés og Jensína                 ,    Bárğarási 4          ,        360  ,        13   ,  41.8      ,  41.8       ,         2.23
-12      Ragnar Sigurğsson                 ,    Gamlagarği           ,        781  ,         3   ,  41.0      ,  41.0       ,         2.67
-13      Şór Reykfjörğ Kristjánsson        ,    Eiğhúsum             ,        360  ,        15   ,  40.6      ,  40.6       ,         2.07
-14      Karl Jónsson                      ,    Bjarg                ,        845  ,        21   ,  40.2      ,  40.2       ,         2.25
-15      Elvar Stefánsson                  ,    Völusteinsstræti 8   ,        415  ,        27   ,  40.0      ,  40.0       ,         2.00
-16      Eiríkur Jónsson                   ,    Gıgjarhólskoti       ,        801  ,       320   ,  39.5      ,  40.5       ,         1.98
-17      Şórğur Júlíusson                  ,    Skorrastağ 4         ,        740  ,        48   ,  39.4      ,  42.0       ,         2.08
-18      Guğbrandur og Lilja               ,    Bassastöğum          ,        510  ,       216   ,  39.4      ,  39.8       ,         1.96
-19      Magnús Leopoldsson                ,    Hvassafell II        ,        311  ,         8   ,  39.3      ,  39.3       ,         2.00
-20      Kani ehf                          ,    Kanastöğum           ,        861  ,        56   ,  39.1      ,  40.6       ,         1.91
-21      Ólafur Haraldsson                 ,    Fljótsbakka          ,        645  ,        21   ,  38.8      ,  38.8       ,         2.00
-22      Atli Geir Scheving Guğmundsson    ,    Ægisgata 21          ,        600  ,        18   ,  38.6      ,  40.9       ,         2.17
-23      Inga Björk og Şröstur             ,    Sperğli              ,        861  ,        12   ,  38.4      ,  38.4       ,         2.33
+ID      Nafn                              ,     BÃ½li                ,     PÃ³stnr ,   FjÃ¶ldi Ã¡a ,  KjÃ¶t(kg)   , KjÃ¶tÃ¾. eftir Ã¡.m.l, FÃ¦dd lÃ¶mb eftir hverja Ã¡
+ 1      SkÃºli AndrÃ©sson                   ,    Framnesi             ,        720  ,        11   ,  54.6      ,  54.6       ,         2.73
+ 2      JÃ³hann Tryggvason                 ,    VÃ¶glum               ,        601  ,         4   ,  52.7      ,  52.7       ,         2.00
+ 3      Henning JÃ³hannesson               ,    Ytri-GrenivÃ­k        ,        611  ,        30   ,  46.8      ,  46.8       ,         2.07
+ 4      SigurÃ°ur Einarsson                ,    HellubÃ¦              ,        320  ,        13   ,  45.6      ,  45.6       ,         2.33
+ 5      Laufey og ÃrÃ¶stur                 ,    Stakkhamri           ,        311  ,        19   ,  43.8      ,  46.2       ,         2.37
+ 6      Rannveig VilhjÃ¡lmsdÃ³ttir          ,    EiÃ°um                ,        611  ,        44   ,  42.8      ,  43.8       ,         2.12
+ 7      Brynja JÃ³na JÃ³nasdÃ³ttir           ,    Lyngholti            ,        851  ,         7   ,  42.2      ,  42.2       ,         2.14
+ 8      Albert GuÃ°mundsson                ,    HÃ¶fÃ°astÃ­gur 12       ,        415  ,        13   ,  42.2      ,  42.2       ,         2.15
+ 9      EgilsstaÃ°abÃºiÃ° ehf                ,    EgilsstaÃ°ir          ,        701  ,        11   ,  42.2      ,  42.2       ,         1.82
+10      JÃ³n GuÃ°mundsson                   ,    HofstaÃ°ir            ,        340  ,        14   ,  42.0      ,  42.0       ,         2.00
+11      AndrÃ©s og JensÃ­na                 ,    BÃ¡rÃ°arÃ¡si 4          ,        360  ,        13   ,  41.8      ,  41.8       ,         2.23
+12      Ragnar SigurÃ°sson                 ,    GamlagarÃ°i           ,        781  ,         3   ,  41.0      ,  41.0       ,         2.67
+13      ÃÃ³r ReykfjÃ¶rÃ° KristjÃ¡nsson        ,    EiÃ°hÃºsum             ,        360  ,        15   ,  40.6      ,  40.6       ,         2.07
+14      Karl JÃ³nsson                      ,    Bjarg                ,        845  ,        21   ,  40.2      ,  40.2       ,         2.25
+15      Elvar StefÃ¡nsson                  ,    VÃ¶lusteinsstrÃ¦ti 8   ,        415  ,        27   ,  40.0      ,  40.0       ,         2.00
+16      EirÃ­kur JÃ³nsson                   ,    GÃ½gjarhÃ³lskoti       ,        801  ,       320   ,  39.5      ,  40.5       ,         1.98
+17      ÃÃ³rÃ°ur JÃºlÃ­usson                  ,    SkorrastaÃ° 4         ,        740  ,        48   ,  39.4      ,  42.0       ,         2.08
+18      GuÃ°brandur og Lilja               ,    BassastÃ¶Ã°um          ,        510  ,       216   ,  39.4      ,  39.8       ,         1.96
+19      MagnÃºs Leopoldsson                ,    Hvassafell II        ,        311  ,         8   ,  39.3      ,  39.3       ,         2.00
+20      Kani ehf                          ,    KanastÃ¶Ã°um           ,        861  ,        56   ,  39.1      ,  40.6       ,         1.91
+21      Ã“lafur Haraldsson                 ,    FljÃ³tsbakka          ,        645  ,        21   ,  38.8      ,  38.8       ,         2.00
+22      Atli Geir Scheving GuÃ°mundsson    ,    Ã†gisgata 21          ,        600  ,        18   ,  38.6      ,  40.9       ,         2.17
+23      Inga BjÃ¶rk og ÃrÃ¶stur             ,    SperÃ°li              ,        861  ,        12   ,  38.4      ,  38.4       ,         2.33
 24      Loftur og Vilborg                 ,    Myrkholti            ,        801  ,        35   ,  38.3      ,  39.4       ,         2.17
-25      Félagsbúiğ Lundur                 ,    Lundi                ,        701  ,       513   ,  38.1      ,  39.2       ,         1.98
-26      Héğinn Sverrisson                 ,    Geiteyjarströnd      ,        660  ,        43   ,  38.1      ,  39.0       ,         2.14
-27      Marteinn Gíslason                 ,    Túnbrekku 16         ,        355  ,        16   ,  38.0      ,  40.8       ,         2.20
-28      Şorsteinn Jónsson                 ,    Samkomugerği         ,        601  ,        21   ,  37.9      ,  37.9       ,         2.14
-29      Eggert O Levy                     ,    Klömbrum             ,        530  ,        20   ,  37.8      ,  37.8       ,         1.94
-30      Reyğarártindur ehf                ,    Reyğará              ,        781  ,         9   ,  37.6      ,  37.6       ,         2.22
-31      Blómsturvellir ehf                ,    Kjalvegi             ,        360  ,        33   ,  37.4      ,  38.5       ,         2.03
-32      Eiríkur S Helgason                ,    Ytra-Gili            ,        601  ,        18   ,  37.3      ,  42.3       ,         1.71
-33      Ólafur Tryggvason                 ,    Grundargata 62       ,        350  ,        11   ,  37.3      ,  37.3       ,         2.18
-34      Marinó Bjarnason                  ,    Eysteinseyri         ,        460  ,        65   ,  37.2      ,  38.3       ,         1.88
-35      Marsibil Erlendsdóttir            ,    Dalatanga            ,        715  ,        40   ,  37.2      ,  38.1       ,         1.85
-36      Guğbrandur og Björn               ,    Smáhömrum            ,        510  ,       301   ,  37.2      ,  37.7       ,         2.02
-37      Şórir Níelsson                    ,    Torfum               ,        601  ,        15   ,  37.2      ,  36.1       ,         2.00
-38      Ágústína og Halldór               ,    Hjartarstöğum        ,        701  ,       113   ,  37.1      ,  39.2       ,         2.00
-39      Grétar Geirsson                   ,    Hjarğarhaga          ,        560  ,        32   ,  37.0      ,  37.0       ,         1.97
-40      Indriği og Lóa                    ,    Skjaldfönn           ,        512  ,       179   ,  37.0      ,  39.2       ,         1.81
-41      Sigurbjörn T Gunnarsson           ,    Ásamıri              ,        851  ,        12   ,  36.9      ,  36.9       ,         2.17
-42      Óskar Hafberg Şorgilsson          ,    Ólafsbraut 54        ,        355  ,        13   ,  36.8      ,  36.8       ,         2.15
-43      Ağalsteinn Örn Snæşórsson         ,    Víkingavatni 1       ,        671  ,         8   ,  36.7      ,  36.7       ,         2.38
-44      Steinar Guğbrandsson              ,    Tröğ                 ,        311  ,        16   ,  36.5      ,  41.7       ,         2.00
-45      Guğrún og Sigurbjörn              ,    Leirulæk             ,        311  ,       131   ,  36.5      ,  36.7       ,         2.38
-46      Kristín Johansen                  ,    Efri-Reykjum         ,        801  ,        12   ,  36.5      ,  36.5       ,         2.00
-47      Ingólfur Sigfússon                ,    Brekku               ,        460  ,       179   ,  36.4      ,  38.3       ,         1.92
-48      Şorsteinn og Katrín               ,    Jökulsá              ,        720  ,       302   ,  36.3      ,  37.8       ,         1.98
-49      Elín Heiğa Valsdóttir             ,    Úthlíğ               ,        880  ,       361   ,  36.2      ,  36.5       ,         2.04
-50      Şórarinn Már Halldórsson          ,    Ytri-Hofdölum        ,        551  ,       159   ,  36.2      ,  36.9       ,         1.99
-51      Şorsteinn Axelsson                ,    Skúfsstöğum          ,        551  ,        63   ,  36.1      ,  37.3       ,         2.05
-52      Stefán Jónsson                    ,    Haugum               ,        701  ,        41   ,  36.1      ,  37.0       ,         2.23
-53      Şorleifur og Sigurbjörg           ,    Hóli                 ,        621  ,        38   ,  36.1      ,  39.3       ,         1.86
-54      Guğmundur Ólafsson                ,    Vallholt 24          ,        355  ,        20   ,  36.1      ,  36.1       ,         1.90
-55      Brynjar Halldórsson               ,    Gilhaga              ,        671  ,        10   ,  36.1      ,  36.1       ,         2.20
-56      Guğni Şorvaldsson                 ,    Raufarfelli 2        ,        861  ,        40   ,  36.0      ,  37.9       ,         2.03
-57      Elín Anna og Ari Guğmundur        ,    Bergsstöğum          ,        531  ,       380   ,  35.9      ,  37.4       ,         2.02
-58      Sunna Hlín Jóhannesdóttir         ,    Ós                   ,        601  ,         9   ,  35.8      ,  35.8       ,         2.00
-59      Lilja Loftsdóttir                 ,    Brúnum               ,        801  ,         9   ,  35.8      ,  35.8       ,         1.89
-60      Flosi og Unnur                    ,    Hrafnsstöğum         ,        641  ,        40   ,  35.7      ,  36.6       ,         2.08
-61      Guğmundur Sæmundsson              ,    Bakkabraut 6         ,        870  ,        39   ,  35.7      ,  36.8       ,         1.89
-62      Sigurğur Baldursson               ,    Sléttu               ,        730  ,       370   ,  35.7      ,  36.7       ,         1.94
-63      Jón Şorsteinsson                  ,    Kirkjubraut 62       ,        780  ,        32   ,  35.7      ,  38.0       ,         2.41
-64      Gunnar Jónsson                    ,    Bókhlöğustíg 15      ,        340  ,        22   ,  35.6      ,  37.4       ,         2.19
-65      Gunnar og Gréta                   ,    Efri-Fitjum          ,        531  ,       620   ,  35.5      ,  35.8       ,         2.04
-66      Sigşór Gunnarsson                 ,    Fjarğargötu 40       ,        470  ,        17   ,  35.5      ,  37.7       ,         2.06
-67      Anna Guğrún Grétarsdóttir         ,    Fornhaga 2           ,        601  ,        12   ,  35.5      ,  35.5       ,         2.08
-68      Trausti og Guğrún                 ,    Ağalstræti 18        ,        415  ,         9   ,  35.4      ,  35.4       ,         2.11
-69      Gunnar Jónsson                    ,    Heiğarbót            ,        641  ,        43   ,  35.4      ,  35.4       ,         2.00
-70      Ásgeir Arngrímsson                ,    Brekkubæ             ,        720  ,       362   ,  35.4      ,  36.0       ,         1.99
-71      Skarphéğinn Gíslason              ,    Fjarğarstræti 55     ,        400  ,        10   ,  35.4      ,  39.3       ,         2.00
-72      Kristjana og Björgvin             ,    Vorsabæ              ,        861  ,        38   ,  35.3      ,  36.6       ,         1.92
-73      Inga Ragnheiğur Magnúsdóttir      ,    Svínafelli 3 Bölta   ,        785  ,       353   ,  35.3      ,  36.9       ,         1.91
-74      Félagsbúiğ                        ,    Flögu                ,        681  ,       126   ,  35.3      ,  35.9       ,         1.98
-75      Jón Grétarsson                    ,    Hóli                 ,        551  ,       110   ,  35.2      ,  35.5       ,         1.99
-76      Guğrún Marinósdóttir              ,    Búrfelli             ,        621  ,        83   ,  35.1      ,  38.4       ,         1.83
-77      Jóhanna Bergşórsdóttir            ,    Stekkholti 7         ,        355  ,         5   ,  35.1      ,  35.1       ,         2.20
-78      Hofsárbúiğ sf                     ,    Hofsá                ,        621  ,        79   ,  35.0      ,  36.4       ,         2.01
-79      Páll Stefánsson                   ,    Árbær 4              ,        816  ,        44   ,  35.0      ,  36.7       ,         2.09
-80      Guğmundur Stefán Bjarnason        ,    Sigluvík             ,        601  ,        23   ,  35.0      ,  36.6       ,         1.96
+25      FÃ©lagsbÃºiÃ° Lundur                 ,    Lundi                ,        701  ,       513   ,  38.1      ,  39.2       ,         1.98
+26      HÃ©Ã°inn Sverrisson                 ,    GeiteyjarstrÃ¶nd      ,        660  ,        43   ,  38.1      ,  39.0       ,         2.14
+27      Marteinn GÃ­slason                 ,    TÃºnbrekku 16         ,        355  ,        16   ,  38.0      ,  40.8       ,         2.20
+28      Ãorsteinn JÃ³nsson                 ,    SamkomugerÃ°i         ,        601  ,        21   ,  37.9      ,  37.9       ,         2.14
+29      Eggert O Levy                     ,    KlÃ¶mbrum             ,        530  ,        20   ,  37.8      ,  37.8       ,         1.94
+30      ReyÃ°arÃ¡rtindur ehf                ,    ReyÃ°arÃ¡              ,        781  ,         9   ,  37.6      ,  37.6       ,         2.22
+31      BlÃ³msturvellir ehf                ,    Kjalvegi             ,        360  ,        33   ,  37.4      ,  38.5       ,         2.03
+32      EirÃ­kur S Helgason                ,    Ytra-Gili            ,        601  ,        18   ,  37.3      ,  42.3       ,         1.71
+33      Ã“lafur Tryggvason                 ,    Grundargata 62       ,        350  ,        11   ,  37.3      ,  37.3       ,         2.18
+34      MarinÃ³ Bjarnason                  ,    Eysteinseyri         ,        460  ,        65   ,  37.2      ,  38.3       ,         1.88
+35      Marsibil ErlendsdÃ³ttir            ,    Dalatanga            ,        715  ,        40   ,  37.2      ,  38.1       ,         1.85
+36      GuÃ°brandur og BjÃ¶rn               ,    SmÃ¡hÃ¶mrum            ,        510  ,       301   ,  37.2      ,  37.7       ,         2.02
+37      ÃÃ³rir NÃ­elsson                    ,    Torfum               ,        601  ,        15   ,  37.2      ,  36.1       ,         2.00
+38      ÃgÃºstÃ­na og HalldÃ³r               ,    HjartarstÃ¶Ã°um        ,        701  ,       113   ,  37.1      ,  39.2       ,         2.00
+39      GrÃ©tar Geirsson                   ,    HjarÃ°arhaga          ,        560  ,        32   ,  37.0      ,  37.0       ,         1.97
+40      IndriÃ°i og LÃ³a                    ,    SkjaldfÃ¶nn           ,        512  ,       179   ,  37.0      ,  39.2       ,         1.81
+41      SigurbjÃ¶rn T Gunnarsson           ,    ÃsamÃ½ri              ,        851  ,        12   ,  36.9      ,  36.9       ,         2.17
+42      Ã“skar Hafberg Ãorgilsson          ,    Ã“lafsbraut 54        ,        355  ,        13   ,  36.8      ,  36.8       ,         2.15
+43      AÃ°alsteinn Ã–rn SnÃ¦Ã¾Ã³rsson         ,    VÃ­kingavatni 1       ,        671  ,         8   ,  36.7      ,  36.7       ,         2.38
+44      Steinar GuÃ°brandsson              ,    TrÃ¶Ã°                 ,        311  ,        16   ,  36.5      ,  41.7       ,         2.00
+45      GuÃ°rÃºn og SigurbjÃ¶rn              ,    LeirulÃ¦k             ,        311  ,       131   ,  36.5      ,  36.7       ,         2.38
+46      KristÃ­n Johansen                  ,    Efri-Reykjum         ,        801  ,        12   ,  36.5      ,  36.5       ,         2.00
+47      IngÃ³lfur SigfÃºsson                ,    Brekku               ,        460  ,       179   ,  36.4      ,  38.3       ,         1.92
+48      Ãorsteinn og KatrÃ­n               ,    JÃ¶kulsÃ¡              ,        720  ,       302   ,  36.3      ,  37.8       ,         1.98
+49      ElÃ­n HeiÃ°a ValsdÃ³ttir             ,    ÃšthlÃ­Ã°               ,        880  ,       361   ,  36.2      ,  36.5       ,         2.04
+50      ÃÃ³rarinn MÃ¡r HalldÃ³rsson          ,    Ytri-HofdÃ¶lum        ,        551  ,       159   ,  36.2      ,  36.9       ,         1.99
+51      Ãorsteinn Axelsson                ,    SkÃºfsstÃ¶Ã°um          ,        551  ,        63   ,  36.1      ,  37.3       ,         2.05
+52      StefÃ¡n JÃ³nsson                    ,    Haugum               ,        701  ,        41   ,  36.1      ,  37.0       ,         2.23
+53      Ãorleifur og SigurbjÃ¶rg           ,    HÃ³li                 ,        621  ,        38   ,  36.1      ,  39.3       ,         1.86
+54      GuÃ°mundur Ã“lafsson                ,    Vallholt 24          ,        355  ,        20   ,  36.1      ,  36.1       ,         1.90
+55      Brynjar HalldÃ³rsson               ,    Gilhaga              ,        671  ,        10   ,  36.1      ,  36.1       ,         2.20
+56      GuÃ°ni Ãorvaldsson                 ,    Raufarfelli 2        ,        861  ,        40   ,  36.0      ,  37.9       ,         2.03
+57      ElÃ­n Anna og Ari GuÃ°mundur        ,    BergsstÃ¶Ã°um          ,        531  ,       380   ,  35.9      ,  37.4       ,         2.02
+58      Sunna HlÃ­n JÃ³hannesdÃ³ttir         ,    Ã“s                   ,        601  ,         9   ,  35.8      ,  35.8       ,         2.00
+59      Lilja LoftsdÃ³ttir                 ,    BrÃºnum               ,        801  ,         9   ,  35.8      ,  35.8       ,         1.89
+60      Flosi og Unnur                    ,    HrafnsstÃ¶Ã°um         ,        641  ,        40   ,  35.7      ,  36.6       ,         2.08
+61      GuÃ°mundur SÃ¦mundsson              ,    Bakkabraut 6         ,        870  ,        39   ,  35.7      ,  36.8       ,         1.89
+62      SigurÃ°ur Baldursson               ,    SlÃ©ttu               ,        730  ,       370   ,  35.7      ,  36.7       ,         1.94
+63      JÃ³n Ãorsteinsson                  ,    Kirkjubraut 62       ,        780  ,        32   ,  35.7      ,  38.0       ,         2.41
+64      Gunnar JÃ³nsson                    ,    BÃ³khlÃ¶Ã°ustÃ­g 15      ,        340  ,        22   ,  35.6      ,  37.4       ,         2.19
+65      Gunnar og GrÃ©ta                   ,    Efri-Fitjum          ,        531  ,       620   ,  35.5      ,  35.8       ,         2.04
+66      SigÃ¾Ã³r Gunnarsson                 ,    FjarÃ°argÃ¶tu 40       ,        470  ,        17   ,  35.5      ,  37.7       ,         2.06
+67      Anna GuÃ°rÃºn GrÃ©tarsdÃ³ttir         ,    Fornhaga 2           ,        601  ,        12   ,  35.5      ,  35.5       ,         2.08
+68      Trausti og GuÃ°rÃºn                 ,    AÃ°alstrÃ¦ti 18        ,        415  ,         9   ,  35.4      ,  35.4       ,         2.11
+69      Gunnar JÃ³nsson                    ,    HeiÃ°arbÃ³t            ,        641  ,        43   ,  35.4      ,  35.4       ,         2.00
+70      Ãsgeir ArngrÃ­msson                ,    BrekkubÃ¦             ,        720  ,       362   ,  35.4      ,  36.0       ,         1.99
+71      SkarphÃ©Ã°inn GÃ­slason              ,    FjarÃ°arstrÃ¦ti 55     ,        400  ,        10   ,  35.4      ,  39.3       ,         2.00
+72      Kristjana og BjÃ¶rgvin             ,    VorsabÃ¦              ,        861  ,        38   ,  35.3      ,  36.6       ,         1.92
+73      Inga RagnheiÃ°ur MagnÃºsdÃ³ttir      ,    SvÃ­nafelli 3 BÃ¶lta   ,        785  ,       353   ,  35.3      ,  36.9       ,         1.91
+74      FÃ©lagsbÃºiÃ°                        ,    FlÃ¶gu                ,        681  ,       126   ,  35.3      ,  35.9       ,         1.98
+75      JÃ³n GrÃ©tarsson                    ,    HÃ³li                 ,        551  ,       110   ,  35.2      ,  35.5       ,         1.99
+76      GuÃ°rÃºn MarinÃ³sdÃ³ttir              ,    BÃºrfelli             ,        621  ,        83   ,  35.1      ,  38.4       ,         1.83
+77      JÃ³hanna BergÃ¾Ã³rsdÃ³ttir            ,    Stekkholti 7         ,        355  ,         5   ,  35.1      ,  35.1       ,         2.20
+78      HofsÃ¡rbÃºiÃ° sf                     ,    HofsÃ¡                ,        621  ,        79   ,  35.0      ,  36.4       ,         2.01
+79      PÃ¡ll StefÃ¡nsson                   ,    ÃrbÃ¦r 4              ,        816  ,        44   ,  35.0      ,  36.7       ,         2.09
+80      GuÃ°mundur StefÃ¡n Bjarnason        ,    SigluvÃ­k             ,        601  ,        23   ,  35.0      ,  36.6       ,         1.96
