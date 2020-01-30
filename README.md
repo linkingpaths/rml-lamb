@@ -8,5 +8,3 @@ http://weblog.linkingpaths.com/post/78767700473/icelandic-open-data-lambs-and-ma
 
 
 Check [csv](csv) folder to see the machine-readable versions of the original PDFs.
-
-
